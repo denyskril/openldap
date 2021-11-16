@@ -1,0 +1,4 @@
+dn: ou=Users,${LDAP_BASE_DN}
+ou: Users
+description: All people in organisation
+objectclass: organizationalunit
